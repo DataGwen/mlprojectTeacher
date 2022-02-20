@@ -1,2 +1,4 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from mlprojectTeacher.lib import try_me
+print(try_me())
